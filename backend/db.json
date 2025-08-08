@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "id": 1,
+      "title": "待处理",
+      "cards": [
+        { "id": 1, "title": "任务1：设置项目", "content": "创建前后端项目结构" },
+        { "id": 2, "title": "任务2：实现API", "content": "开发看板数据的增删改查接口" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "进行中",
+      "cards": [
+        { "id": 3, "title": "任务3：开发前端界面", "content": "使用Vue和ElementPlus" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "已完成",
+      "cards": []
+    }
+  ]
+}
